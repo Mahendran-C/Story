@@ -1,2 +1,3 @@
 this chapter is all about git and github
-this file is tracking by git.
+this file is tracking by git
+chapter 1 defines working process of git.
